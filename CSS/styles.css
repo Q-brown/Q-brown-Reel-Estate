@@ -1,0 +1,22 @@
+#reel{
+    background-color: silver;
+}
+#eel{
+    text-decoration: underline;
+    text-align: center;
+    font-size: 60px;
+    color: navy;
+}
+#teh{
+    font-size: 40px;
+    color:red ;
+    text-decoration: underline;
+}
+p{
+    color: navy;
+    font-size: 30px;
+}
+span{
+    color: darkgreen;
+    font-size: 24px;
+}
